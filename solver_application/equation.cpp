@@ -3,6 +3,7 @@
 #include "formatter_ex.h"
 #include "solver.h"
  //XD
+ //XD ^2
 int
 main(int argc, char* argv[])
 {
